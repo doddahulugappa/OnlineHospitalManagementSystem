@@ -12,6 +12,6 @@ PHP Based Hospital Management System
 *7th Step: Click on browse file and select “onlinehospitalmanagementsystem.sql” file which is inside the “backup” folder
 *8th Step: Click on go.
 
-*After Creating Database,
+-After Creating Database,
 
 *9th Step: Open a browser and go to URL “http://localhost:8080/OnlineHospitalManagementSystem/”
